@@ -1,0 +1,21 @@
+button{
+    cursor:pointer;
+    border:none;
+    outline: none;
+    background-color: transparent;
+    font-size: 30px;
+}
+
+.on{
+    color:gold;
+
+}
+
+.off{
+    color:gray;
+}
+.star-rating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
